@@ -20,7 +20,7 @@ Install dependencies with:
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Note
 This project is made for personal use. You can fork this project for trying and adding custom gestures.
